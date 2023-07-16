@@ -1,6 +1,7 @@
 pandas
 numpy
 seaborn
+xgboost==1.6.0
 matplotlib
 scikit-learn
 #-e .
